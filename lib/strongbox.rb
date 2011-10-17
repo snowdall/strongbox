@@ -1,7 +1,7 @@
 require 'openssl'
 require 'base64'
 
-require 'strongbox/lock'
+require_relative 'strongbox/lock'
 
 module Strongbox
 

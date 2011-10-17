@@ -1,1 +1,1 @@
-require 'strongbox'
+require_relative 'strongbox'
