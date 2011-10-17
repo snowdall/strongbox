@@ -3,7 +3,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'strongbox'
 
 Gem::Specification.new do |s|
-  s.name = "thc-strongbox"
+  s.name = "strongbox"
   s.version = Strongbox::VERSION
   s.summary = "Secures ActiveRecord fields with public key encryption."
   s.authors = ["Spike Ilacqua"]
