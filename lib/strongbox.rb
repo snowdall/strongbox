@@ -4,7 +4,6 @@ require 'base64'
 require 'strongbox/lock'
 
 module Strongbox
-  constant = 'Hello world'
 
   VERSION = "0.4.8"
 
